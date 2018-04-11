@@ -1,0 +1,13 @@
+D:\selenium\visual2015\project\BDD_SPECFLOW_DEMO\BDD_SPECFLOW_DEMO\obj\Debug\BDD_SPECFLOW_DEMO.csprojResolveAssemblyReference.cache
+D:\selenium\visual2015\project\BDD_SPECFLOW_DEMO\BDD_SPECFLOW_DEMO\bin\Debug\BDD_SPECFLOW_DEMO.dll.config
+D:\selenium\visual2015\project\BDD_SPECFLOW_DEMO\BDD_SPECFLOW_DEMO\bin\Debug\BDD_SPECFLOW_DEMO.dll
+D:\selenium\visual2015\project\BDD_SPECFLOW_DEMO\BDD_SPECFLOW_DEMO\bin\Debug\BDD_SPECFLOW_DEMO.pdb
+D:\selenium\visual2015\project\BDD_SPECFLOW_DEMO\BDD_SPECFLOW_DEMO\bin\Debug\nunit.framework.dll
+D:\selenium\visual2015\project\BDD_SPECFLOW_DEMO\BDD_SPECFLOW_DEMO\bin\Debug\TechTalk.SpecFlow.dll
+D:\selenium\visual2015\project\BDD_SPECFLOW_DEMO\BDD_SPECFLOW_DEMO\bin\Debug\WebDriver.dll
+D:\selenium\visual2015\project\BDD_SPECFLOW_DEMO\BDD_SPECFLOW_DEMO\bin\Debug\WebDriver.Support.dll
+D:\selenium\visual2015\project\BDD_SPECFLOW_DEMO\BDD_SPECFLOW_DEMO\bin\Debug\nunit.framework.xml
+D:\selenium\visual2015\project\BDD_SPECFLOW_DEMO\BDD_SPECFLOW_DEMO\bin\Debug\WebDriver.xml
+D:\selenium\visual2015\project\BDD_SPECFLOW_DEMO\BDD_SPECFLOW_DEMO\bin\Debug\WebDriver.Support.xml
+D:\selenium\visual2015\project\BDD_SPECFLOW_DEMO\BDD_SPECFLOW_DEMO\obj\Debug\BDD_SPECFLOW_DEMO.dll
+D:\selenium\visual2015\project\BDD_SPECFLOW_DEMO\BDD_SPECFLOW_DEMO\obj\Debug\BDD_SPECFLOW_DEMO.pdb
